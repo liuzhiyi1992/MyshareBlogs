@@ -4,6 +4,9 @@ Record articles i has been share
 
 <br>
 ###按更新时间 新 -> 旧 排列  
+- [KVC  KVO高阶应用](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/KVC--KVO%E9%AB%98%E9%98%B6%E5%BA%94%E7%94%A8)网络上目前学习不到的KVC,KVO高阶特性
+- [依赖注入与面向接口编程思想](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E4%B8%8E%E9%9D%A2%E5%90%91%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3)从0到1谈依赖注入与接口编程
+- [PreLoader的实现讲解](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/PreLoader%E7%9A%84%E5%AE%9E%E7%8E%B0%E8%AE%B2%E8%A7%A3)一个能有效分散等待注意力有趣的Loader
 - [self.var or _var](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/%E5%91%8A%E8%AF%89%E4%BD%A0%E5%85%B3%E4%BA%8Eself.var-%E5%92%8C-_var%E7%9A%84%E5%8C%BA%E5%88%AB)告诉你使用self.var 和 _var的区别  
 - [Swift默认参数 & 可变长参数](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/Swift%E9%BB%98%E8%AE%A4%E5%8F%82%E6%95%B0-&-%E5%8F%AF%E5%8F%98%E9%95%BF%E5%8F%82%E6%95%B0)  
 - [ApplePay](https://github.com/liuzhiyi1992/MyshareBlogs/wiki/%E9%A6%96%E7%AF%87ApplePay%E5%BA%94%E7%94%A8%E5%86%85%E6%94%AF%E4%BB%98%E7%BA%BF%E4%B8%8A%E6%8E%A5%E5%85%A5%E6%95%99%E7%A8%8B)首篇ApplePay应用内支付线上接入教程  
